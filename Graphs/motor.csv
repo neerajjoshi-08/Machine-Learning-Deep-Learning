@@ -1,0 +1,16 @@
+The DC motor Driver,Supply Voltage (V),Efficiency (%),Revolving Speed (RPM)
+L298N (optical coupler),6.06,30.69,103.49
+L298N (optical coupler),8.98,52.78,181.67
+L298N (optical coupler),11.97,64.2,263.34
+L298N,6.02,39.06,109.67
+L298N,8.99,59.24,191.67
+L298N,12.03,70.02,273.34
+TB6612,6.1,91.74,157.5
+TB6612,9.14,94.08,237.5
+TB6612,12.02,95.97,306.67
+Me-motor driver (TB6612),6.1,77.23,145
+Me-motor driver (TB6612),9.06,84.87,225
+Me-motor driver (TB6612),12.1,87.91,310
+Me-Baseboard(LV8406T),6.02,78.03,147.5
+Me-Baseboard(LV8406T),9.09,85.14,240
+Me-Baseboard(LV8406T),12.14,88.24,310.83
